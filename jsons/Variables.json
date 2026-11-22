@@ -1,0 +1,11 @@
+[
+  {
+    "name": "WarAversion",
+    "scope": "civ",
+    "default": 0,
+    "min": 0,
+    "max": 120,
+    "isDisplay": true,
+    "isAlwaysDisplay": true
+  }
+]
